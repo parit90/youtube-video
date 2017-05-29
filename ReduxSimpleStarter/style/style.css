@@ -1,0 +1,16 @@
+#SearchBar{
+	margin-top: 50px;
+    margin-left: 400px
+}
+
+input {
+    width: 400px;
+    height: 27px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    border-radius: 30px;
+}
+
+input:focus {
+	border: none;
+}
